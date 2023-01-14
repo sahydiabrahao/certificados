@@ -1,7 +1,7 @@
 # Certificados
 # COD3R
-Fundamentos de Javascript Funcional
-Produtividade com VSCode
+Fundamentos de Javascript Funcional,
+Produtividade com VSCode,
 Angular 9 - Essencial
 
 # IFRS
